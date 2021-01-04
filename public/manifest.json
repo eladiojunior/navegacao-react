@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Navegação React Router",
+  "name": "Projeto de navegação em React utilizando Router",
   "icons": [
     {
       "src": "favicon.ico",
